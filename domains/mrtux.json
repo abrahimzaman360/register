@@ -1,1 +1,9 @@
- 
+{
+    "owner": {
+        "username": "abrahimzaman360",
+        "email": "abrahimzaman3@gmail.com"
+    },
+    "record": {
+        "URL": "https://vercel.app/"
+    }
+}
